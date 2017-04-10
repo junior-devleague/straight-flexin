@@ -1,0 +1,23 @@
+/*Grid layouts*/
+
+
+/* No Flex */
+/* Row layout */
+.noflex-item{
+  display: inline-block;
+}
+
+/* Centering image */
+.noflex-item img{
+  margin: 0 auto;
+}
+
+/* Center Items inside container */
+.noflex-container{
+  text-align: center;
+}
+
+/* Column layout */
+.noflex-column-item{
+  display: block;
+}

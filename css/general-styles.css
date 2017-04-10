@@ -1,0 +1,27 @@
+/* General Styles - Everything but grids */
+
+header h1{
+  text-align: center;
+}
+
+.container{
+  width: 80%;
+  margin: 0 auto;
+  border-bottom: solid salmon 2px;
+  border-top: solid salmon 2px;
+  padding-bottom: 20px;
+}
+
+ul, .flex-container, .noflex-container, .noflex-column-container{
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+li, .flex-item, .noflex-item, .noflex-column-item{
+  background-color: #cdcdcd;
+  padding: 1em;
+  text-align: center;
+  width: 28%; /* or 325px*/
+  margin: 10px;
+}
+
