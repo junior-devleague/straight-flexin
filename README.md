@@ -6,12 +6,15 @@ Grid layouts with and without flexbox.
 
 <h2>Prerequesites</h2>
 <ul>
-  <li></li>
+  <li>Basic HTML elements</li>
+  <li>CSS: Flexbox, Display properties</li>
+  <li>Javascript events</li>
 </ul>
 
 <h2>Requirements</h2>
 <ul>
-  <li></li>
+  <li>Sublime Text</li>
+  <li>html server/web browser</li>
 </ul>
 
 <h2>Your Challenge</h2>
